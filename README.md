@@ -6,7 +6,7 @@ Cloned from <https://github.com/dockersamples/example-voting-app> to get practic
 
 Documenting each step with commit logs:
 
-- Set up deployments for each microservice b04fb00b59d3d11586f761d8d46631c0f3b67854
+- [Set up deployments for each microservice](https://github.com/nommuna/k8s-example-voting-app/tree/bf64a8c290e841d965940fd6a504c23479845330/k8s-specifications)
 
 ## Tools Used
 
